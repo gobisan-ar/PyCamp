@@ -1,6 +1,6 @@
 <div align="center">
   
-  # PyCamp
+  # PyCamp 
   This reporitory is the collection of coding exercises done to learn python.
   
   ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
